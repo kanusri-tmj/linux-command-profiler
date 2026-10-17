@@ -1,4 +1,4 @@
-# Linux Command Execution Profiler
+# Linux Command Execution Time Profiler
 
 ## 1. Project Overview
 
